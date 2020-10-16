@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Everything was done by that learning bot
 Use the left arrow to go back!
